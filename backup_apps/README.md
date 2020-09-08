@@ -4,9 +4,6 @@
 
 ```backup_apps backup```
 - Read macOS app list and Write to text for backup
-- Default Location
- - Backup text: `~/Dropbox/applications`
- - macOS Apps location : `~/Applications`
 
 ```backups_apps diff```
 - Compare diff Backup text and actual apps list
@@ -18,3 +15,7 @@ diff result
 < MenuTube.app
 < Microsoft Excel.app
 ```
+
+## Default Location
+- Backup text: `~/Dropbox/applications`
+- macOS Apps location : `~/Applications`
